@@ -1,0 +1,7 @@
+/* sets box-sizing property to border-box for all elements*/
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
+}
