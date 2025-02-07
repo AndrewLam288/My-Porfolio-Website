@@ -38,7 +38,7 @@ export const About = () => {
 
             <li>
                 <img src={getImageUrl("about/uiIcon.png")}
-                alt="about/cursorIcon.png"
+                alt="about/uiIcon.png"
                 className={styles.aboutIcon}
                 />
                 <div>
@@ -47,6 +47,19 @@ export const About = () => {
                     </p>
                 </div>
             </li>
+
+            <li>
+                <img src={getImageUrl("about/uiIcon.png")}
+                alt="about/testIcon.png"
+                className={styles.aboutIcon}
+                />
+                <div>
+                    <h3>Tester</h3>
+                    <p>I'm a frontend developer with experience...
+                    </p>
+                </div>
+            </li>
+
         </ul>
         </div>
         </section>
