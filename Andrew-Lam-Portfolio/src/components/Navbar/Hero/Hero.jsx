@@ -7,10 +7,10 @@ export const Hero = () => {
         <section className={styles.container}>
             <div className={styles.content}> 
                 <h1 className={styles.title}> Hi! I am Andrew </h1>
-                <p className={styles.description}> Being a Junior majoring in Computer Science at the University Of Minnesota Morris,
-                    I have a strong background and solid experience in full-stack developer. <br />
-                    I seek a summer internship to build hands-on experience and contribute effectively to a forward-thinking team. <br />
-                    Feel free to reach out if you would like to learn more and look forward to hear from you soon! 
+                <p className={styles.description}> Junior majoring in Computer Science, I am experienced in full-stack developer,
+                    and work remotely in the USA. <br />
+                    Feel free to reach out if you would like to learn more and look forward to hear from you soon! <br />
+                    Location: Morris, MN 56267
                 </p>
                 <a href="mailto:lamminhtrunghieu288@gmail.com" className={styles.contactBtn}>Contact Me</a>
             </div>
