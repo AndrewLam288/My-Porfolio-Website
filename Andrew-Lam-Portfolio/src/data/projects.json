@@ -1,7 +1,7 @@
 [
     {
         "title": "Scav-A-Snap",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/scavasnapproject.png",
         "description": "The project is a web application that allows users to create and join scavenger hunts, take pictures of the items on the list, and upload them to the server for other users to see.",
         "skills": ["TypeScript", "Java", "Angular", "Karma Testing", "End-to-End Testing", "API", "MongoDB"],
         "demo": "https://www.example.com",
@@ -10,7 +10,7 @@
 
       {
         "title": "Andrew Lam Portfolio",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/myportfolioproject.png",
         "description": "This is a project made to learn React & Vite, as well as deploying and showcasing my projects and experiences.",
         "skills": ["React", "Vite", "JavaScript", "HTML", "CSS"],
         "demo": "https://www.example.com",
