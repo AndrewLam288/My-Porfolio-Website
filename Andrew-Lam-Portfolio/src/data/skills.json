@@ -5,11 +5,6 @@
     },
 
     {
-        "title": "Python",
-        "imageSrc": "skills/python.png"
-    },
-
-    {
         "title": "Rust",
         "imageSrc": "skills/rust.png"
     },
@@ -40,11 +35,6 @@
     },
 
     {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
-    },
-
-    {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
     },
@@ -55,18 +45,8 @@
     },
 
     {
-        "title": "Git",
-        "imageSrc": "skills/git.png"
-    },
-
-    {
         "title": "azureDevOps",
         "imageSrc": "skills/azureDevOps.png"
-    },
-
-    {
-        "title": "Visual Studio Code",
-        "imageSrc": "skills/visualstudiocode.png"
     },
 
     {
