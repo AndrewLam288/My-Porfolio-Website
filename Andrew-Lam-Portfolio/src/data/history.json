@@ -3,17 +3,21 @@
         "role": "Junior Software Engineer Intern",
         "company": "Web Surfing Studio",
         "StartDate": "January, 2025",
-        "EndData": "present",
-        "experience": "",
-        "imageSrc": "websurfingstudio.png"
+        "EndDate": "present",
+        "experiences": ["balh blah blah"],
+        "imageSrc": "history/wss.png"
     },
 
     {
         "role": "IT Help Desk Assistant",
-        "company": "University of Minnesota, Morris",
+        "company": "University of Minnesota Morris",
         "StartDate": "August, 2022",
-        "EndData": "May, 2023",
-        "experience": "Worked as a helpdesk technology assistant on the University of Minnesota Morris campus. Working as a team and writing tickets to the supervisor for technical issues on campus. Help students, and professors with laptops, technical issues..etc.",
-        "imageSrc": "umn.png"
+        "EndDate": "May, 2023",
+        "experiences": [
+            "Worked as a helpdesk technology assistant on the University of Minnesota Morris campus.",
+            "Working as a team and writing tickets to the supervisor for technical issues on campus.",
+            "Help students, and professors with laptops, technical issues..etc."
+        ],
+        "imageSrc": "history/umnmorris.png"
     }
 ]
