@@ -1,10 +1,13 @@
 [
     {
-        "role": "Junior Software Engineer Intern",
+        "role": "Junior Software Engineer Intern (Remote)",
         "company": "Web Surfing Studio",
         "StartDate": "January, 2025",
         "EndDate": "present",
-        "experiences": ["balh blah blah"],
+        "experiences": [
+            "Engaged in a structured, multi-phase program focusing on web development, AWS services, DevOps, and scalable system design.",
+            "Gained hands-on experience by building real-world projects, collaborating in teams, and applying industry best practices in a professional development environment."
+        ],
         "imageSrc": "history/wss.png"
     },
 

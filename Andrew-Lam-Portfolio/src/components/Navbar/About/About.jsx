@@ -22,7 +22,8 @@ export const About = () => {
                 />
                 <div className={styles.aboutItemText}>
                     <h3>Frontend Developer</h3>
-                    <p>I'm a frontend developer with experience...
+                    <p>
+                        I am experienced in building responsive, functional and optimized sites
                     </p>
                 </div>
             </li>
@@ -34,7 +35,8 @@ export const About = () => {
                 />
                 <div className={styles.aboutItemText}>
                     <h3>Backend Developer</h3>
-                    <p>I'm a frontend developer with experience...
+                    <p>
+                        I am experienced in developing server-side applications, working with databases & APIs
                     </p>
                 </div>
             </li>
@@ -46,19 +48,21 @@ export const About = () => {
                 />
                 <div className={styles.aboutItemText}>
                     <h3>UI Designer</h3>
-                    <p>I'm a frontend developer with experience...
+                    <p>
+                        I love to design a user-friendly interface and have experience with this throughout my projects
                     </p>
                 </div>
             </li>
 
             <li className={styles.aboutItem}>
-                <img src={getImageUrl("about/uiIcon.png")}
+                <img src={getImageUrl("about/tester.png")}
                 alt="about/testIcon.png"
                 className={styles.aboutIcon}
                 />
                 <div className={styles.aboutItemText}>
                     <h3>Tester</h3>
-                    <p>I'm a frontend developer with experience...
+                    <p>
+                        I am experienced in testing interfaces & functionality as well as testing the server-side applications
                     </p>
                 </div>
             </li>

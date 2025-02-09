@@ -13,7 +13,7 @@
         "imageSrc": "projects/myportfolioproject.png",
         "description": "This is a project made to learn React & Vite, as well as deploying and showcasing my projects and experiences.",
         "skills": ["React", "Vite", "JavaScript", "HTML", "CSS"],
-        "demo": "https://www.example.com",
+        "demo": "https://andrewlam-portfolio.netlify.app/",
         "source": "https://github.com/AndrewLam288/My-Porfolio-Website"
       }
 ]
